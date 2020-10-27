@@ -1,1 +1,2 @@
-deskshare
+
+Desktop sharing system
